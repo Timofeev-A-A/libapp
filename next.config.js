@@ -4,7 +4,7 @@ const nextConfig = {
     serverActions: true,
     },
     env: {
-        apiKey: 'AIzaSyDlWoV93O0kFvDdigFk8XDG-ZomXPtc0Yw'
+        apiKey: ''
     }
 }
 
